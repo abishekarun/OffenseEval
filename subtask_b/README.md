@@ -11,7 +11,6 @@ We also perform synthetic data generation using nearest neighbours to obtain a b
 |--------------------|------------|
 | Baseline | [1](https://nbviewer.jupyter.org/github/abishekarun/OffenseEval/blob/master/subtask_b/baseline.ipynb)|
 | Baseline on New Dataset| [2](https://nbviewer.jupyter.org/github/abishekarun/OffenseEval/blob/master/subtask_b/new_data/new_data_baseline.ipynb) |
-| Ensemble| [3](https://nbviewer.jupyter.org/github/abishekarun/OffenseEval/blob/master/subtask_b/ensemble.ipynb) |
 
 
 The resources that helped me are:

@@ -13,6 +13,7 @@ We performed an extensive hyperparameter search across traditional machine leari
 | [Subtask-B](https://github.com/abishekarun/OffenseEval/blob/master/subtask_b/) | [1](https://github.com/abishekarun/OffenseEval/blob/master/subtask_b/README.md)|
 | [Subtask-C](https://github.com/abishekarun/OffenseEval/blob/master/subtask_c/) | [2](https://github.com/abishekarun/OffenseEval/blob/master/subtask_c/README.md) |
 
+Final submission metrics results can be seen [here](https://nbviewer.jupyter.org/github/abishekarun/OffenseEval/blob/master/results.ipynb)
 
 The resources that helped me are:
 
