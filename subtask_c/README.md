@@ -14,7 +14,7 @@ Balanced Dataset-3 : Synthetic oversampling of OTH and GRP
 
 |    **Model **  | **Jupyter Notebook** |
 |--------------------|------------|
-| Baseline | [1](https://nbviewer.jupyter.org/github/abishekarun/OffenseEval/blob/master/subtask_c/Baselines.ipynb)|
+| Baseline | [1](https://nbviewer.jupyter.org/github/abishekarun/OffenseEval/blob/master/subtask_c/baselines.ipynb)|
 | Baseline on Balanced Dataset-1| [2](https://nbviewer.jupyter.org/github/abishekarun/OffenseEval/blob/master/subtask_c/grp_baselines.ipynb) |
 | Baseline on Balanced Dataset-2| [3](https://nbviewer.jupyter.org/github/abishekarun/OffenseEval/blob/master/subtask_c/oth_baselines.ipynb) |
 | Baseline on Balanced Dataset-3| [4](https://nbviewer.jupyter.org/github/abishekarun/OffenseEval/blob/master/subtask_c/all_baselines.ipynb) |
